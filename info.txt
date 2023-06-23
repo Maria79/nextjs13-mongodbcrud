@@ -1,0 +1,4 @@
+Username: mongodbcrud
+Password: S6KVrxM2zERitOmQ
+
+mongodb+srv://mongodbcrud:S6KVrxM2zERitOmQ@cluster0.sftndzb.mongodb.net/
